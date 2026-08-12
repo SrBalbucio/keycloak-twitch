@@ -83,7 +83,7 @@ Os testes validam a desserialização do payload do Helix (wrapper `data[]`), ce
 
 ## Licença
 
-Apache License, Version 2.0.
+MIT
 
 ## Autor
 
